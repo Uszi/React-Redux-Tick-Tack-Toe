@@ -2,8 +2,6 @@
 
 ###Getting Started###
 
-There are two methods for getting started with this repo.
-
 Checkout this repo, install dependencies for client and server, and run.
 
 You can do that with the following:
