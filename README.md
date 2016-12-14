@@ -12,8 +12,8 @@ You can do that with the following:
 	> git clone git@github.com:Uszi/React-Redux-Tick-Tack-Toe.git
 	> cd React-Redux-Tick-Tack-Toe
 	> npm install
-  > cd ./server
-  > npm install
-  > cd ..
+  	> cd ./server
+ 	> npm install
+  	> cd ..
 	> npm start
 ```
